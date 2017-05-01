@@ -1,6 +1,6 @@
 {
     "name": "fab.jquery.js-hide",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "Fabricator jquery js hide",
     "homepage": "https://github.com/BuzzingPixelFabricator/jquery.jsHide",
     "bugs": "https://github.com/BuzzingPixelFabricator/jquery.jsHide/issues",
@@ -19,6 +19,11 @@
     "fabricatorJsBuild": {
         "files": [
             "src/jquery.jsHide.js"
+        ]
+    },
+    "fabricatorCssBuild": {
+        "files": [
+            "src/jquery.jsHide.less"
         ]
     }
 }

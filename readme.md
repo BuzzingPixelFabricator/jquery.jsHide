@@ -8,7 +8,7 @@ With Fabricator and NPM, simply require this library into your project and resta
 
 `npm install fab.jquery.js-hide --save`
 
-If you are not using Fabricator, you will need to in some manner compile `src/jquery.jsHide.js` into your build process or put it somewhere where you can link it into your projects.
+If you are not using Fabricator, you will need to in some manner compile `src/jquery.jsHide.js` into your build process or put it somewhere where you can link it into your projects, and `src/jquery.jsHide.less` will need to be compiled into your Less/CSS.
 
 ## Usage
 
